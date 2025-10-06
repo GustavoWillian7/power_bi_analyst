@@ -42,7 +42,7 @@ Para explorar o relatório interativo, siga os passos abaixo:
 1.  **Pré-requisitos:** Você precisará ter o [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) instalado em seu computador.
 2.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/GustavoWillian7/power_bi_analyst.git](https://github.com/GustavoWillian7/power_bi_analyst.git)
+    git clone https://github.com/GustavoWillian7/power_bi_analyst.git
     ```
 3.  **Abra o arquivo:** Navegue até a pasta do projeto e abra o arquivo `desafioPowerBIAnalyst.pbix` no Power BI Desktop.
 
